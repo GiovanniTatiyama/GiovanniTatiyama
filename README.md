@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @GiovanniTatiyama
-- 👀 I’m interested in learn coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to my future...
 - 📫 How to reach me: giocampost@gmail.com
 
-<!---
-GiovanniTatiyama/GiovanniTatiyama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋, I'm Giovanni de Campos Tatiyama
+A computer programmer self-taught student
+Connect with me:
+https://www.linkedin.com/in/enzo-de-campos-tatiyama-a54089217/
+📫 giocampost@gmail.com
+Languages and Tools:
+c css3 figma firebase git html5 java javascript mongodb nextjs postgresql postman python react reactnative
+

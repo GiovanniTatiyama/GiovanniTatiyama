@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanni de Campos Tatiyama</h1>
-<h3 align="center">A computer programmer self-taught student</h3>
+<h4 align="center">A computer programmer self-taught student</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

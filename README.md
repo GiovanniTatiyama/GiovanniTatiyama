@@ -1,4 +1,4 @@
-<h1 align="left">Olá!👋 Eu sou o Giovanni C. Tatiyama</h1>
+<h1 align="left">Olá!👋 Eu sou o Giovanni C. Tatiyama!</h1>
 <h3 align="left">Estudando programação</h3>
 <span align="left">A computer programmer self-taught student</span>
 
